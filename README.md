@@ -15,4 +15,4 @@ Todo App in Laravel
 - Run composer `create-project --prefer-dist laravel/laravel todo`
 - Edit .env file and enter the database credentials
 - Give full permission to storage folder `chmod -R 777 www-data:www-data ./storage`
-- And don't forget to point the requests into Laravels public folder in the apaches configuration file
+- And don't forget to point the Document Root Folder into Laravels public folder in the apaches configuration file
